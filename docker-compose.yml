@@ -1,0 +1,10 @@
+services:
+  onboard:
+    build: .
+    container_name: dkor-onboard
+    restart: unless-stopped
+    env_file: .env
+    ports:
+      - "8015:8000"
+    volumes:
+      - ./knowledge:/app/knowledge:ro

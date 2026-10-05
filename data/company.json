@@ -1,0 +1,12 @@
+{
+  "COMPANY": "DKORWORLD2 Studio — учебный контур",
+  "CITY": "Москва",
+  "DOMAIN": "dkorworld2.example",
+  "HEADCOUNT": "38 человек в учебной штатной модели (масштаб 35–45)",
+  "WORK_START": "10:00",
+  "WORK_HOURS": "10:00–19:00, перерыв 13:00–14:00",
+  "TZ": "МСК (UTC+3)",
+  "CORE_HOURS": "12:00–17:00",
+  "PROBATION": "3 месяца",
+  "VACATION_NOTICE_DAYS": "14"
+}
